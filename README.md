@@ -13,10 +13,13 @@ of the criminals instantaneously.
 ## Screenshots of police portals
 Police login portal
 ![image](https://user-images.githubusercontent.com/104610103/198844205-1076af56-7209-443a-b209-94c7e285a5c1.png)
+
 here is where police will be getting the image or video from the CCTV camera to verify if it is a crime or not.
 ![image](https://user-images.githubusercontent.com/104610103/198844217-95e933a9-5d55-4b2a-93a6-78a9ae021075.png)
+
 Portal for reporting problems
 ![image](https://user-images.githubusercontent.com/104610103/198844277-ee7c3e09-bcbd-464d-a099-6f2ab0d7b531.png)
+
 Maps which is used for public awareness.
 ![image](https://user-images.githubusercontent.com/104610103/198844290-91afd808-04d8-4b3e-8490-ca34437a2432.png)
 
