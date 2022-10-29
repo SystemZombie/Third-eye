@@ -1,0 +1,79 @@
+.over{
+    position:absolute;
+}
+
+.traffic{
+    width: 100%; 
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 20%;
+    font-size: 30px;
+    color: white;
+}
+
+form{
+    width: 100%; 
+    margin-left: 35%;
+    text-align: center;
+    margin-top: 8%;
+    color: white;
+}
+label{
+    font-size: 40px;
+}
+input{
+    height: 50px;
+    width: 350px;
+    background-color: #504A4B;
+    border-radius: 25px;
+}
+input placeholder{
+    font-size: 200px;
+}
+button{
+    text-align: center;
+    margin-left: 73%;
+    margin-top: 6%;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 37px;
+    border-radius: 25px;
+    background-color: dimgrey;
+    border: solid grey 5px;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+input[type=text] {  
+    font-size: 20px;
+}
+input[type=password] {
+    font-size: 20px;
+}
+button:hover{
+    text-align: center;
+    font-size: 35px;
+    background-color: #565051;
+    color: red;
+    border: grey;
+    border-radius: 25px;
+    cursor: pointer;
+}
+button a:hover{
+    text-align: center;
+    font-size: 35px;
+    background-color: #565051;
+    color: lavender;
+    border: grey;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
